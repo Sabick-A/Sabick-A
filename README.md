@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabick A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/sabick_a" target="blank"><img src="https://img.shields.io/twitter/follow/sabick_a?logo=twitter&style=for-the-badge" alt="sabick_a" /></a> </p>
 
