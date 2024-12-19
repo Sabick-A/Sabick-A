@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabick A</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/sabick_a" target="blank"><img src="https://img.shields.io/twitter/follow/sabick_a?logo=twitter&style=for-the-badge" alt="sabick_a" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sabicka/" target="blank"><img src="https://img.shields.io/twitter/follow/sabick_a?logo=twitter&style=for-the-badge" alt="sabick_a" /></a> </p>
 
 - 🔭 I’m currently working on [MailGenie : Mailing Just Got Faster](https://github.com/Sabick-A/MailGenie)
 
