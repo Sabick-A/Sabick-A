@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/sabicka/" target="blank"><img src="https://img.shields.io/twitter/follow/sabick_a?logo=twitter&style=for-the-badge" alt="sabick_a" /></a> </p>
 
-- 🔭 I’m currently working on [MailGenie : Mailing Just Got Faster](https://github.com/Sabick-A/MailGenie)
+- 🔭 I’m currently working on [ConXQuest : Where Learning Meets Adventure and Fun!](https://github.com/Sabick-A/ConxQuest-Revamp)
 
 - 📫 How to reach me **connectwithsabick@gmail.com**
 
